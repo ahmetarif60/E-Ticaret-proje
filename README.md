@@ -1,4 +1,5 @@
-<h1>E Ticaret Proje</h1>
+
+<h1>e-Ticaret-proje</h1>
 
 Projede HTML,CSS ve JAVASCRİPT kullanılarak yapılmıştır.İçerisinde istediğimiz bir seçeneğe tıklayıp sepete ekleyip silebiliyoruz.
 
